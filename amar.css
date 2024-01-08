@@ -1,2 +1,8 @@
-div{background-color: salmon snow;}
-p{border: 12px solid darkcyan;}
+h1{border: 3px solid yellowgreen;
+border-radius:1px;
+padding: 3px;
+margin: 2px 3.3 px ;}
+div{color: blue;}
+p{box-shadow: 8px snow saddlebrown;}
+img{width:300px;
+height: 400px;}
